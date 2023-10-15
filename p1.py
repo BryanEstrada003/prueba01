@@ -27,3 +27,4 @@ contra.replace("a", "@")
 
 contra=contra[-2].upper()
 print(contra)
+print('un troyano')
