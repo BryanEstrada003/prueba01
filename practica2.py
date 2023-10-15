@@ -11,3 +11,4 @@ e = Entry(w)
 e.pack() #empaca dentro del contenedor
 
 w.mainloop()
+print('quiero un elado de chocolate')
