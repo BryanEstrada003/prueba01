@@ -15,3 +15,4 @@ WIDGET: cualquier cosa que podemos colocar en una ventana
 print("Hola mundo")
 
 print("Estuve aqui jiji xd")
+print('si las gotas de lluvia fueran de caramelo')
